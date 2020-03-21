@@ -19,7 +19,7 @@ y:				 ds 4
 bcd:			 ds 5		
 
 CSEG
-; These ’EQU’ must match the wiring between the microcontroller and ADC
+; These â€™EQUâ€™ must match the wiring between the microcontroller and ADC
 LCD_RS equ P1.1
 LCD_RW equ P1.2
 LCD_E  equ P1.3
